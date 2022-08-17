@@ -8,7 +8,7 @@
 
 * o kernel do Linux é mantido pela Linux Foundation, que é uma organização sem fins lucrativos. Para manter o kernel atualizado e implementar melhorias, a fundação é mantida por doações de grandes empresas que utilizam o Linux em seus produtos ou serviços
 
-### Distriuições
+### Distribuições
 
 > Uma distribuição Linux é um pacote que consiste em um kernel Linux, mais uma seleção de aplicativos mantidos por uma empresa ou comunidade de usuários. O objetido de uma distribuição é otimizar o kernel e os aplicativos que rodam no sistema operacional para um determinado tipo de uso ou grupo de usuários.
 
