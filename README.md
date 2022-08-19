@@ -6,4 +6,6 @@
   
   * [Linux Founding Members](https://linuxfoudation.org/our-members-are-our-superpower-2/)
 
+* [GuiaFoca](https://www.guiafoca.org/)
+
 
