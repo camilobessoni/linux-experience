@@ -8,4 +8,6 @@
 
 * [GuiaFoca](https://www.guiafoca.org/)
 
+* [Linux LPI](https://www.lpi.org)
+
 
