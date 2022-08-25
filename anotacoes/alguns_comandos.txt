@@ -1,0 +1,16 @@
+# listar os blocos, discos e partições - opção 1
+$ lsblk 
+
+# listar os blocos, discos e partições - opção 2
+$ fdisk -l
+
+# montar a partição /dev/sdb no diretório /disk2
+$ mount /dev/sdb /disk2
+
+# formatar (=criar sistema de arquivos) da partição /dev/sdb com o tipo ext4
+$ mkfs.ext4 /dev/sdb
+
+Para que uma partição seja montada automaticamente a cada inicialização do sistema operacional, deve-se editar o arquivo /etc/fstab como o exemplo abaixo:
+/dev/sdb /disk2 ext4 defaults 0 0
+
+Do contrário, é necessário sempre montar o disco manualmente.
